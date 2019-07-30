@@ -1,0 +1,3 @@
+$enum = [adsisearcher]'(&amp;(samAccountType=805306368)(servicePrincipalName=*))'
+$enum.SearchRoot = [adsi]"LDAP://dc=domain,dc=local"
+$enum.FindAll() | ForEach-Object { $_.Properties } | ft

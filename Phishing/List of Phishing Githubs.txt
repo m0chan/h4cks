@@ -1,0 +1,10 @@
+https://github.com/UndeadSec/SocialFish
+https://github.com/thelinuxchoice/shellphish
+https://github.com/muraenateam/muraena
+https://github.com/pan0pt1c0n/PhishBait
+https://github.com/chrismaddalena/Cooper
+https://github.com/Raikia/FiercePhish
+https://github.com/op7ic/SocialEngineeringPayloads
+https://github.com/kgretzky/evilginx2
+https://github.com/L4bF0x/PhishingPretexts
+https://github.com/t4d/StalkPhish

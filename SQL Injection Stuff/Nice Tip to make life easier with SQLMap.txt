@@ -1,0 +1,4 @@
+One huge time-saver when learning SQLMap is to use the -r switch. You can catch the vulnerable request using a proxy like Burp, save it to a text file, and then use SQLMap to scan it just by running:
+
+sqlmap -r file.req
+It took me an embarrassingly long time to find this feature. Don’t be like me. Writing the request details on the command line sucks.

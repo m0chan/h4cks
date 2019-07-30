@@ -1,0 +1,7 @@
+Cross Site Scripting (XSS)
+
+XSS attacks are typically broken into two categories: stored and reflected.
+
+Stored XSS attacks are stored on the server and executed whenever a user visits the page where the script is stored. User forums, reviews, and other places where users can save input displayed to other users are ideal places for these sorts of attacks.
+
+Reflective XSS attacks are not stored on the server but are created by sending requests with the XSS attack itself. The attacks occur when user input is included in the server’s response, for example, in error messages or search results. Reflected XSS attacks rely on a user sending a request with the XSS attack included.

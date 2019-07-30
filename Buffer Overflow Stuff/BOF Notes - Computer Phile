@@ -1,0 +1,12 @@
+0xFFFFFFF - Top of Memory - Same as 111111111111111111111111111
+0x0000000 - Bottom of Memory - Same as 000000000000000000000000
+
+
+Top of Memory - Kernal - Environmental Variels
+Stack - Holds Local Variables for Each Function - For ex. printf
+Stack grows down this way towards heap (From high memory addresses down to low)
+
+stack grows up this way ^
+Heap - Large Allocations
+Data
+Bottom of Memeroy - Text - Read Only 
